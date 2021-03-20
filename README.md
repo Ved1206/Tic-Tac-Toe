@@ -1,0 +1,1 @@
+A simple tic tac toe game which consists of a bot created using the Minimax algorithm and the game using HTML, CSS and Javascript. Play with it for a while and if possible try to beat it.
